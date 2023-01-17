@@ -1,0 +1,19 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "first_json_server_test1",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ak-nut-47/better_living_home_json_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ak-nut-47/better_living_home_json_server/issues"
+  },
+  "homepage": "https://github.com/Ak-nut-47/better_living_home_json_server#readme"
+}
