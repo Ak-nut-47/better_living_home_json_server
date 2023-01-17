@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    }
+  ],
+  "workplaces": [
+    {
+      "id": 1,
+      "name": "CodingTheSmartWay.com",
+      "address": "Main Street 1",
+      "city": "Bern",
+      "country": "Switzerland"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "address": "One Microsoft Way",
+      "city": "Redmond",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "address": "1600 Amphitheatre Parkway",
+      "city": "Mountain View",
+      "country": "USA"
+    }
+  ],
+ "xx": [{},{}]
+}
